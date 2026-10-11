@@ -11,3 +11,9 @@ wheels/
 
 # Local model download (10 GB)
 models/
+
+# Corpus embedding cache
+*.emb.pt
+
+# Tool caches
+.ruff_cache/
